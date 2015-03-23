@@ -1,4 +1,4 @@
-package com.earthlink.business.tomcat.ws;
+package tomcat.ws;
 
 import java.util.logging.Logger;
 

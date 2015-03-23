@@ -18,7 +18,7 @@
     </wss:binding>
  
     <!-- Web service methods -->
-    <bean id="helloWs" class="com.earthlink.business.tomcat.ws.HelloWorld"/>
+    <bean id="helloWs" class="tomcat.ws.HelloWorld"/>
     
  
 </beans>
