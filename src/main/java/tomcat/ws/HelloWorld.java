@@ -18,4 +18,12 @@ public class HelloWorld {
 		return "Hello";
 
 	}
+	
+	@WebMethod(operationName = "getTeam")
+	public String getTeam() {
+		logger.info("getTeam invoked.");
+
+		return "Hello Team";
+
+	}
 }
