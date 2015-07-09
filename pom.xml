@@ -8,8 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tomcat-ws Spring-WS Application</name>
 	<url>http://www.springframework.org/spring-ws</url>
-	<build>
-		<finalName>tomcat-ws</finalName>
+	<build>		
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
